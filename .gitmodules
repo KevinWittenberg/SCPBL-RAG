@@ -1,0 +1,3 @@
+[submodule "lightrag"]
+	path = lightrag
+	url = https://github.com/HKUDS/lightrag.git
